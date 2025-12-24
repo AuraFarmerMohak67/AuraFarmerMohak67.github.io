@@ -5,10 +5,9 @@
 </head>
 <body>
 
-<h1>This is a website made by Mohak Parihar</h1>
-<p>I study in Lanier MS</p>
+<h1>This is Mohak Parihar</h1>
+<p>This is a website</p>
 
 </body>
 </html>
-
 
